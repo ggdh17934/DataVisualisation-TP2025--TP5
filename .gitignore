@@ -10,3 +10,4 @@ __pycache__/
 currency_conversion/target/
 currency_conversion/logs/
 currency_conversion/dbt_packages/
+currency_conversion/.user.yml
