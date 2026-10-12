@@ -1,0 +1,6 @@
+pandas
+requests
+dlt[postgres]
+dbt-postgres
+prefect
+psycopg2-binary

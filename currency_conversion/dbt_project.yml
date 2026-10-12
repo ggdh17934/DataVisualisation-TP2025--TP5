@@ -1,0 +1,9 @@
+name: currency_conversion
+version: '1.0.0'
+config-version: 2
+profile: currency_conversion
+model-paths: [models]
+models:
+  currency_conversion:
+    example:
+      +materialized: view
